@@ -1,0 +1,8 @@
+{
+  "name": "TankApp",
+  "app_id": "a6ed213c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
